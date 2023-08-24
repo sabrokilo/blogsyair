@@ -1,2 +1,2 @@
-# blogsyair.github.io
+# blogsyair
 website blogsyair
